@@ -46,6 +46,7 @@ Some of the key projects you'll find here:
 If you find this repository useful, please **star it** 🌟 and **share it** with others! Your support helps keep this project going.
 
 </div>
+
 ---
 
 Let's learn and build together with the 89s52 microcontroller! 👨‍💻👩‍💻
