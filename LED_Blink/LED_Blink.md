@@ -26,7 +26,7 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 ## ***Code***
 
-<div align ="right">
+<div align ="left">
 
 ```c
 
@@ -53,6 +53,10 @@ void main()	{
 ```
 </div>
 
+<div align ="right">
+
 ## OUTPUT
 
 <img src="https://github.com/Suraj2930/Using-8051-micrcontrollers/Docs/LED_Blink.gif" width="400">
+
+</div>
