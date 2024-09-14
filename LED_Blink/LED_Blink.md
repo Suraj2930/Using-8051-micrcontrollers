@@ -18,13 +18,10 @@ Establishing this fundamental skill will provide a solid foundation for more com
   
 <br>
 
-## Diagram
-
-<img src="./Files/LED_Blink.gif" width="400">
-
-<hr>
 
 ## ***Code***
+
+<div align ="center">
 
 <div align ="left">
 
@@ -52,3 +49,18 @@ void main()	{
 
 ```
 </div>
+
+<div align ="right">
+
+<img src="./Files/LED_Blink.jpg" height="600">
+
+</div>
+
+</div>
+
+## OUPUT
+
+<img src="./Files/LED_Blink.gif" width="500">
+
+<hr>
+
