@@ -20,7 +20,7 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 ## Diagram
 
-<img src="./Files/LED_Blink.jpg" width="400">
+<img src="./Files/LED_Blink.gif" width="400">
 
 <hr>
 
@@ -51,12 +51,4 @@ void main()	{
 }
 
 ```
-</div>
-
-<div align ="right">
-
-## OUTPUT
-
-<img src="https://github.com/Suraj2930/Using-8051-micrcontrollers/Docs/LED_Blink.gif" width="400">
-
 </div>
