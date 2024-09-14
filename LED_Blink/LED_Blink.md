@@ -1,6 +1,5 @@
 # LED Blink Circuit using 8051 micro-controller
 
-
 <div align ="justify">
 
 LEDs are small, powerful lights found in many applications. 
@@ -10,7 +9,9 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 </div>
 
-## Components Required:
+----
+
+**Components Required:**
 
 - 1 x 89C52
 - 1 x Led (any color)
@@ -18,9 +19,9 @@ Establishing this fundamental skill will provide a solid foundation for more com
   
 ----
 
-## ***Diagram & Code***
+***Diagram & Code***
 
-<img src="./Files/LED_Blink.jpg" height="400">
+<img src="./Files/LED_Blink.jpg" height="400"> 
 
 ```c
 
@@ -29,7 +30,7 @@ Establishing this fundamental skill will provide a solid foundation for more com
 void delay(int time){ 
 	int i,j;
 	for(i=0;i<time;i++)
-			for(j=0;j<1275;j++);
+		for(j=0;j<1275;j++);
 }
 
 sbit led =  P0^0; 
@@ -44,11 +45,11 @@ void main()	{
 	}
 }
 
-```
+``` 
 
 ----
 
-## OUPUT
+**OUPUT**
 
 <img src="./Files/LED_Blink.gif" width="500">
 
