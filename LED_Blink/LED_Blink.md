@@ -16,16 +16,11 @@ Establishing this fundamental skill will provide a solid foundation for more com
 - 1 x Led (any color)
 - 1 x Resistor 
   
-<br>
+----
 
+## ***Diagram & Code***
 
-## ***Code***
-
-<div align ="center">
-
-<div align ="right">
-
-<p height="400" width = "400">
+<img src="./Files/LED_Blink.jpg" height="400">
 
 ```c
 
@@ -51,21 +46,10 @@ void main()	{
 
 ```
 
-</p height="400" width = "400">
-
-</div>
-
-<div align ="left">
-
-<img src="./Files/LED_Blink.jpg" height="400">
-
-</div>
-
-</div>
+----
 
 ## OUPUT
 
 <img src="./Files/LED_Blink.gif" width="500">
 
-<hr>
-
+-----
