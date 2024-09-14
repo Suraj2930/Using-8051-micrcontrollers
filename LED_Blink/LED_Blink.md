@@ -23,7 +23,7 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 <div align ="center">
 
-<div align ="left">
+<div align ="right">
 
 <p height="400" width = "400">
 
@@ -55,7 +55,7 @@ void main()	{
 
 </div>
 
-<div align ="right">
+<div align ="left">
 
 <img src="./Files/LED_Blink.jpg" height="400">
 
