@@ -23,7 +23,9 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 <div align ="center">
 
-<div align ="left" height="400" width = "400">
+<div align ="left">
+
+<p height="400" width = "400"
 
 ```c
 
@@ -47,7 +49,11 @@ void main()	{
 	}
 }
 
+
+
 ```
+</p height="400" width = "400">
+
 </div>
 
 <div align ="right">
