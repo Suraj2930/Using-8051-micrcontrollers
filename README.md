@@ -97,8 +97,8 @@ Follow these steps to install the Keil uVision IDE:
 
 # Projects 
 
-1. [LED_Blink](.Projects/LED_Blink.md)
-2. [LCD_Display](.Projects/Lcd_Display.md)
+1. [LED_Blink](.Projects/LED_Blink/LED_Blink.md)
+2. [LCD_Display](.Projects/Lcd_Display/Lcd_Display.md)
 
 ## 🌟 Support the Project
 
