@@ -87,6 +87,6 @@ void main() {
 
 **OUPUT**
 
-<img src="./Files/Lcd_Display.jpg" height="400"> 
+<img src="./Files/Lcd_Display.jpg" height="350" width="400">
 
 -----

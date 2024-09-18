@@ -21,7 +21,7 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 ***Diagram & Code***
 
-<img src="./Files/LED_Blink.jpg" height="400"> 
+<img src="./Files/LED_Blink.jpg" height="400" width="500"> 
 
 ```c
 
@@ -51,6 +51,6 @@ void main()	{
 
 **OUPUT**
 
-<img src="./Files/LED_Blink.gif" width="500">
+<img src="./Files/LED_Blink.gif" width="500" height="400">
 
 -----
