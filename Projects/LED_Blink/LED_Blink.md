@@ -19,12 +19,13 @@ Establishing this fundamental skill will provide a solid foundation for more com
   
 ----
 
-***Diagram & Code***
+## ***Diagram & Code***
 
-<img src="./Files/LED_Blink.jpg" height="400" width="500"> 
+<img src="./Files/LED_Blink.jpg" height="405" width="450" align = "right"> 
+
+<div align = "left">
 
 ```c
-
 #include <reg52.h> 
 
 void delay(int time){ 
@@ -44,13 +45,13 @@ void main()	{
 		delay(100);
 	}
 }
-
 ``` 
+</div>
 
 ----
 
-**OUPUT**
+## **OUTPUT**
 
-<img src="./Files/LED_Blink.gif" width="500" height="400">
+<img src="./Files/LED_Blink.gif" width="450" height="400">
 
 -----
