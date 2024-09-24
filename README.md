@@ -4,7 +4,7 @@
 
 <div align ="justify">
 
-<img align = "right" width="250" height="180" src="./Docs/Cover.jpg">
+<img align = "right" width="150" height="100" src="./Docs/Cover.jpg">
 
 ----
 Welcome to my GitHub repository dedicated to building innovative and practical projects using the **89s52 microcontroller**! 
@@ -93,6 +93,7 @@ Follow these steps to install the Keil uVision IDE:
 
 1. [LED_Blink](./Projects/LED_Blink/LED_Blink.md)
 2. [LCD_Display](./Projects/Lcd_Display/Lcd_Display.md)
+3. Seven Segment Display
 
 ----
 
