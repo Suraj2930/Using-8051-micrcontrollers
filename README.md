@@ -7,8 +7,8 @@
 <img align = "right" width="150" height="100" src="./Docs/Cover.jpg">
 
 ----
-Welcome to my GitHub repository dedicated to building innovative and practical projects using the **89s52 microcontroller**! 
-From the 8051 family. This collection of projects is designed to help both beginners and enthusiasts explore the capabilities of 
+Welcome to my GitHub repository dedicated to building innovative and practical projects using the **89s52 microcontroller** 
+from the 8051 family. This collection of projects is designed to help both beginners and enthusiasts explore the capabilities of 
 this popular microcontroller and dive into real-world embedded systems development.
 
 ----
@@ -52,6 +52,7 @@ Some of the key projects you'll find here:
 - **Follow**: Stay updated by watching the repo and following me on GitHub for new project releases!
 
 ----
+</div>
 
 # Getting Started with 89s52 Microcontroller Development
 
@@ -60,6 +61,8 @@ This guide will help you set up your environment and get started with programmin
 - Writing your first program.
 - Compiling to a HEX file.
 - Simulating with Proteus or flashing directly to the IC.
+
+<div align ="justify">
 
 ## 1. Installing Keil uVision IDE
 
@@ -89,6 +92,8 @@ Follow these steps to install the Keil uVision IDE:
 6. When all connections are done, we need to uplaod the code.
 7. Double-click the `Micro-controller IC` and either paste the path or you can browse to the path of the `.HEX` file created above.
 
+</div>
+
 # Projects 
 
 1. [LED_Blink](./Projects/LED_Blink/LED_Blink.md)
@@ -100,8 +105,6 @@ Follow these steps to install the Keil uVision IDE:
 ## 🌟 Support the Project
 
 > If you find this repository useful, please **star it** ⭐ and **share it** 📨 with others!  Your support helps keep this project going.
-
-</div>
 
 ----
 
