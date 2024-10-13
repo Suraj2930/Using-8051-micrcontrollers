@@ -98,7 +98,7 @@ Follow these steps to install the Keil uVision IDE:
 
 1. [LED_Blink](./Projects/LED_Blink/LED_Blink.md)
 2. [LCD_Display](./Projects/Lcd_Display/Lcd_Display.md)
-3. Seven Segment Display
+3. [Seven_Segment_Display](./Projects/Seven_Segment_Display/Seven_Segment_Display.md)
 
 ----
 
