@@ -1,6 +1,6 @@
 # LED Blink Circuit using 8051 micro-controller
 
-<div align ="justify">
+<div align = "justify">
 
 LEDs are small, powerful lights found in many applications. 
 Blinking an LED is the "Hello World" of microcontrollers. 
@@ -30,8 +30,8 @@ Establishing this fundamental skill will provide a solid foundation for more com
 
 void delay(int time){ 
 	int i,j;
-	for(i=0;i<time;i++)
-		for(j=0;j<1275;j++);
+	for(i = 0;i < time;i++)
+		for(j = 0;j < 1275;j++);
 }
 
 sbit led =  P0^0; 
@@ -52,6 +52,10 @@ void main()	{
 
 ## **OUTPUT**
 
-<img src="./Files/LED_Blink.gif" width="450" height="400">
+<div align = "center">
+
+<img src="./Files/LED_Blink.gif" width="500" height="400">
+
+</div>
 
 -----
