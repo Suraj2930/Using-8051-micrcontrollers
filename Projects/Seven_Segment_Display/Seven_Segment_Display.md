@@ -130,8 +130,10 @@ void main() {
 ``` 
 ## **OUTPUT**
 
-<img src="./Files/Seven_Segment_Display.gif" width ="800">
+<div align = "center">
+
+<img src="./Files/Seven_Segment_Display.gif" width ="600" height ="400">
 
 -----
-
+</div>
 </div>
