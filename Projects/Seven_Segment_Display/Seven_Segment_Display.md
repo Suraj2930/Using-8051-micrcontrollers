@@ -132,7 +132,7 @@ void main() {
 
 <div align = "center">
 
-<img src="./Files/Seven_Segment_Display.gif" width ="600" height ="400">
+<img src="./Files/Seven_Segment_Display.gif">
 
 -----
 </div>
